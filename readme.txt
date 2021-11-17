@@ -1,4 +1,8 @@
-**************************** Errors & Correction Techniques ***********************************
+**************************** SQL Queries ***********************************
+
+On behalf of SE Factory's Full Stack Web Development Bootcamp, we were asked to list the
+problems with a faculty's database, create the database, and solve some queries.
+
 The database of departments contains many errors in the implementation listed below:
 
 1- Lack of information:
